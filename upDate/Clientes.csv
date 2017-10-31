@@ -1,0 +1,363 @@
+1-J ,     3,HERRERA LOCERIA   *CB                             ,G                   ,      400.00,  0.00,        0.00,   0
+1-R ,    20,FAICAN COMERCIAL    *BC                           ,G                   ,     3900.00, 10.00,        0.00,   0
+1-R ,    27,IMDASA S. A. *BC                                  ,G                   ,     2000.00, 10.00,        0.00,   0
+1-R ,    29,PINCAY ROSADO LUIS *AA                            ,G                   ,     9000.00, 10.00,        0.00,   0
+1-R ,    33,QUEZADA VILCHE FANNY *AB                          ,G                   ,     5450.00, 10.00,        0.00,   0
+1-R ,    49,VELIZ AGUIRRE MILTON  *AA                         ,G                   ,     3100.00,  5.00,     1249.59,   0
+1003,    51,ASAGA COMERCIAL *BA                               ,MACHALA             ,     2000.00,  0.00,        0.00,   0
+1003,    53,LA BOMBA ALMACEN  *BB                             ,AMBATO              ,     1000.00,  0.00,      294.24,   0
+1003,    54,RIVAS PARDO VICENTE *BBB                          ,AMBATO              ,     3000.00,  5.00,      712.32,   0
+1003,    61,BAZAR VALERIA *AA                                 ,HUAQUILLAS          ,    12600.00, 10.00,        0.00,   0
+1003,    83,PRODISA *AC                                       ,AMBATO              ,     1500.00, 10.00,        0.00,   0
+1003,    84,ROMAN LOYOLA SILVIO *BA                           ,MACHALA             ,     1000.00,  5.00,        0.00,   0
+1-R ,   123,FERRETERIA GUTIERREZ *BB                          ,G                   ,      800.00,  0.00,        0.00,   0
+1-R ,   127,REINOSO LEON FROILAN *BA                          ,G                   ,     2000.00,  5.00,      418.08,   0
+1-R ,   132,PLASTI SAN *AB                                    ,G                   ,     5000.00, 10.00,        0.00,   0
+1003,   134,PEDREROS SANCHEZ FERNANDO *BC                     ,MACHALA             ,     1000.00,  5.00,       80.00, 138
+1004,   137,CARRERA ALMACEN *AB                               ,QUITO               ,    18000.00, 10.00,     2983.01,   0
+1-J ,   144,DON JUAN ALMACEN  *AA                             ,G                   ,     2000.00, 10.00,        0.00,   0
+1004,   150,AGUILAR PAREDES LUIS   *AB                        ,QUITO               ,     3800.00, 10.00,        0.00,   0
+1-R ,   151,PLASTICOS GACELA *AA                              ,G                   ,     4100.00, 10.00,        0.00,   0
+1003,   155,JACHO VALLEJO LUIS  *BC                           ,AMBATO              ,     1500.00,  3.00,      644.31,   0
+1004,   168,MI VAJILLA (QUITO) *AA                            ,QUITO               ,    18500.00, 10.00,      808.68,   0
+1003,   169,VELOZ VALDEZ LUIS *CB                             ,RIOBAMBA            ,      500.00,  0.00,        0.00,   0
+1004,   172,DISTRIBUCIONES VALENCIA *AB                       ,QUITO               ,     4200.00, 10.00,        0.00,   0
+1003,   175,ARIZAGA BARRERA VICTOR  *BA                       ,LOJA                ,     2300.00,  0.00,        0.00,   0
+1004,    88,MOREIRA SOLORZANO BARBARA*BC                      ,QUITO               ,     2000.00,  7.50,     1296.48,   0
+1004,    94,GUALVERTO CALVA CALVA *AB                         ,QUITO               ,     3000.00, 10.00,        0.00,   0
+1003,   149,PLASTICOS VEGA1 *BD                               ,QUITO               ,     1000.00, 10.00,        0.00,   0
+1003,   179,AMERICANO ALMACEN *MMM                            ,QUITO               ,        1.00,  0.00,        0.00,   0
+1-J ,   185,LLIMAICO LLIMAICO ALFONSO *CA                     ,G                   ,      570.00,  5.00,        0.00,   0
+1003,   195,BRAVO TORRES NELSON RAUL*AB                       ,AMBATO              ,     5600.00, 10.00,        0.00,   0
+1003,   200,IVAN ARGUELLO GOMEZ *AA                           ,AMBATO              ,     5000.00, 10.00,     1429.36,   0
+1004,   207,CAIZA PIEDRA FATIMA *BA                           ,QUITO               ,     1800.00, 10.00,     1161.97,   0
+1-J ,   208,VERPSA   *M                                       ,G                   ,        1.00,  0.00,        0.00,   0
+1-J ,   210,BERMEO DANIEL  *M                                 ,CUENCA              ,        1.00,  0.00,        0.00,   0
+1003,   211,ZHAGUI TENESACA LAURITO *AC                       ,CUENCA              ,     9000.00,  8.00,     1791.84,   0
+1-J ,   215,ZHAGUI TENESACA RAQUEL *BBA                       ,CUENCA              ,        0.00,  8.00,        0.00,   0
+10  ,   217,SARITA BAZAR *AA                                  ,QUEVEDO             ,     2000.00,  5.00,        0.00,   0
+1-R ,   221,PAREDES VALLEJOS MARIANA *BA                      ,IBARRA              ,     1600.00,  7.50,        0.00,   0
+1-R ,   222,PAREDES ARDILA HENRY *AB                          ,IBARRA              ,     3500.00,  5.00,      984.08,   0
+1003,   232,ZHAGUI LUIS *AC                                   ,CUENCA              ,     8000.00,  5.00,        0.00,   0
+1003,   233,DUQUE ORDOÑEZ JORGE *AB                           ,AMBATO              ,     4830.00, 10.00,        0.00,   0
+1003,   239,TENESACA PUGO ROSA *AA                            ,CUENCA              ,     9000.00, 10.00,    13876.84,   0
+1004,   240,SALINAS SERRANO LUCIA *BC                         ,QUITO               ,     1000.00,  0.00,        0.00,   0
+1-R ,   242,RODRIGUEZ JIMENEZ CARLOS *ABA                     ,TULCAN              ,    16000.00, 10.00,     1506.14,   0
+1003,   247,GUAYCHA CUENCA JULIO *BAA                         ,HUAQUILLAS          ,     3000.00,  5.00,        0.00,   0
+1-R ,   248,VINICIO BALCAZAR                                  ,TULCAN              ,     8000.00, 10.00,     1070.16,   0
+1-R ,   251,ARAUJO ALVAREZ ROSA *CB                           ,MILAGRO             ,      400.00,  0.00,        0.00,   0
+1-R ,   254,MI VAJILLA (IBARRA) *AB                           ,IBARRA              ,     4600.00,  5.00,     1807.88,   0
+1003,   255,CELI RIOFRIO MARIETA  *BA                         ,LOJA                ,     1000.00,  5.00,      198.91,   0
+1003,   258,JIMENEZ LUDEÑA ERNESTO *AA                        ,LOJA                ,     2900.00,  7.50,        0.00,   0
+1003,   259,PESANTEZ GOMEZ HILDA  *BA                         ,CUENCA              ,     4000.00, 10.00,     4305.60,   0
+1003,   260,GLORIA COMERCIAL  *BA                             ,MACHALA             ,     2600.00, 10.00,     1702.11,   0
+1003,   262,COMERCIAL CELI CELI  *BA                          ,LOJA                ,      800.00,  0.00,        0.00,   0
+10  ,   269,MEDINA INTRIAGO KERLY 1 *BA                       ,BUENA FE            ,     2400.00,  0.00,        0.00,   0
+1004,   270,TIPAN EULALIA  *BB1                               ,SANGOLQUI           ,     1200.00,  5.00,      176.40,   0
+1-R ,   276,REASCOS MARTHA  *BA                               ,G                   ,     1000.00, 10.00,        0.00,   0
+1003,   278,HERRERA CASTILLO JAIME *M                         ,LOJA                ,        1.00,  0.00,        0.00,   0
+10  ,   277,CAMPOVERDE RIGOBERTO *M                           ,TULCAN              ,        1.00,  0.00,        0.00,   0
+10  ,   279,BALCAZAR RUBEN *M                                 ,IBARRA              ,        1.00,  0.00,        0.00,   0
+10  ,   280,HERRERA FANNI *M                                  ,QUITO               ,        1.00,  0.00,        0.00,   0
+1003,   281,OTACOMA AUGUSTO *M                                ,MACHALA             ,        1.00,  0.00,        0.00,   0
+10  ,   282,CONTERON GERARDO ING. *M                          ,PORTOVIEJO          ,        1.00,  0.00,        0.00,   0
+1003,   283,ROBALINO SORAYA *M                                ,RIOBAMBA            ,        1.00,  0.00,        0.00,   0
+10  ,   284,TUMBACO GARCIA ALEJO *M                           ,JIPIJAPA            ,        1.00,  0.00,        0.00,   0
+1003,   285,GALARZA CHIRIBOGA LIGIA *AB                       ,MACHALA             ,     2500.00,  5.00,        0.00,   0
+1-J ,   287,MENDEZ CARPIO LIGIA LUCIA *M                      ,CUENCA              ,        1.00,  0.00,        0.00,   0
+1-J ,   288,AVECILLAS DE PIEDRA JULIA *M                      ,CUENCA              ,        1.00,  0.00,        0.00,   0
+1003,   290,LUZURIAGA WALTER *M                               ,MACHALA             ,        1.00,  0.00,        0.00,   0
+10  ,   294,SANCHEZ WILLIAM *M                                ,NARANJAL            ,        1.00,  0.00,        0.00,   0
+1003,   296,CORTES RUSSO MARIANITA *BB                        ,AMBATO              ,      800.00,  0.00,      182.54,   0
+1-R ,   297,CENTRO PLAST *AA                                  ,G                   ,     9800.00, 10.00,        0.00,   0
+1-J ,   309,ZHAGUI TENESACA JULIO *ABB                        ,CUENCA              ,     9000.00,  8.00,        0.00,   0
+1-R ,   318,PLASTICOS JESSICA *AA                             ,G                   ,     1800.00, 10.00,        0.00,   0
+1003,   334,DUCHI COMERCIAL  *BB                              ,MACHALA             ,     1400.00, 10.00,      451.66,   0
+1003,   344,PEREZ ABAD JUAN FELIX *BA                         ,LOJA                ,     1500.00,  5.00,        0.00,   0
+10  ,   351,ALMACEN NIÑO KENDRU *BBC                          ,PORTOVIEJO          ,     3000.00, 10.00,        0.00,   0
+1-R ,   353,GALLEGOS ROBALINO JUAN *AB                        ,LIBERTAD            ,     5200.00,  5.00,      151.49,   0
+1-J ,   357,BAZAR ORO AUSTRO                                  ,CUENCA              ,        1.00,  0.00,        0.00,   0
+10  ,   358,PLASTICOS IBARRA                                  ,IBARRA              ,        1.00,  0.00,        0.00,   0
+1003,   359,COMERCIALIZADORA PIKA                             ,ZAMORA              ,        1.00,  0.00,        0.00,   0
+1003,   360,DISTRIBUIDORA SARITA                              ,HUAQUILLAS          ,        1.00,  0.00,        0.00,   0
+1003,   361,ALMACEN ROSITA                                    ,LOJA                ,        1.00,  0.00,        0.00,   0
+1003,   362,SUPER OFERTAS MACHALA                             ,MACHALA             ,        1.00,  0.00,        0.00,   0
+10  ,   363,ALMACEN EL CABALLO DE ORO                         ,EMPALME             ,        1.00,  0.00,        0.00,   0
+1003,   411,MANZANO CARRILLO ALEX *AB                         ,AMBATO              ,     7200.00, 10.00,     6561.20,   0
+1004,   418,DISPLASTIC J M *AB                                ,QUITO               ,    20000.00, 10.00,        0.00,   0
+1003,   420,HIDALGO MARIA DE LOPEZ *BA                        ,AMBATO              ,     2000.00,  0.00,      340.91,   0
+1-R ,   423,OLMEDO REASCOS MONICA *CA                         ,G                   ,      400.00, 10.00,        0.00,   0
+1-R ,   424,ZAMORA ZAMBRANO OLGA *ABA                         ,LIBERTAD            ,     5600.00,  5.00,     5366.96,   0
+1003,   425,DUCHI YUNGAN HUGO *BA                             ,MACHALA             ,     2600.00, 10.00,        0.00,   0
+1-R ,  7802,ALVAREZ CEVALLOS RAMON *AA                        ,TULCAN              ,     4000.00, 10.00,        0.00,   0
+1-R ,  7804,FERRETERIA JARA *CA                               ,G                   ,     1000.00,  5.00,        0.00,   0
+1-R ,   428,MELLISAS COMERCIAL *BA                            ,G                   ,     5000.00,  5.00,      685.23,   0
+1003,   429,ESCUDERO BRICEÑO MARIA *AC                        ,LOJA                ,     2750.00, 10.00,        0.00,   0
+1003,   431,YUNGAN PINDUISACA GABRIEL *BB                     ,MACHALA             ,     1500.00,  0.00,        0.00,   0
+1003,   432,YULITA COMERCIAL *BB                              ,LOJA                ,      380.00,  0.00,      580.56,   0
+1-R ,   434,BAMBILOZA *BB                                     ,LIBERTAD            ,     4700.00,  5.00,        0.00,   0
+1003,   436,ORDOÑEZ PINOS JUAN PABLO  *AD                     ,RIOBAMBA            ,     7900.00, 10.00,        0.00,   0
+1003,  7812,IMPORTACIONES & NEGOCIOS N.G*ABA                  ,AMBATO              ,    15700.00, 10.00,     5036.55,   0
+1-R ,   439,SALINAS BALON BOLIVIA *AAA                        ,LIBERTAD            ,     7680.00, 10.00,     1346.81,   0
+1004,   440,ORDOÑEZ PINOS ARTURO *AA                          ,QUITO               ,     2000.00, 10.00,        0.00,   0
+1-R ,   443,PIONCE MUÑIZ LENNY *AA                            ,SANTA ELENA         ,     1000.00,  5.00,        0.00,   0
+1003,   444,MI CALZADO *BA                                    ,AMBATO              ,     1000.00,  0.00,        0.00,   0
+1004,   446,REINA DEL CISNE DISTRI *AB                        ,IBARRA              ,    10000.00,  5.00,     2258.59,   0
+1-R ,   449,ALOMOTO LOPEZ MARIA *AB                           ,LIBERTAD            ,     3200.00,  5.00,        0.00,   0
+1-J ,   450,COSITAS & ALGO MAS *BA                            ,CUENCA              ,      450.00,  0.00,        0.00,   0
+1003,   452,ROMAN JIMENEZ PABLO *AB                           ,LOJA                ,     3500.00, 10.00,      535.54,   0
+1-J ,   453,ACOSTA VASQUEZ PEDRO *BB                          ,G                   ,      700.00,  0.00,        0.00,   0
+1003,   456,RODRIGUEZ ESPINOZA BETTY *BA                      ,RIOBAMBA            ,     1800.00, 10.00,        0.00,   0
+1-R ,   458,VILLON ANGEL IVONNE *BC                           ,SANTA ELENA         ,     1000.00,  5.00,        0.00,   0
+1004,   461,BOHORQUEZ ROMAN EMMA *BB                          ,QUITO               ,     2500.00,  7.00,     2207.01,   0
+1-J ,   463,ANDRADE AMOROSO JOSEFINA *BA                      ,AZOGUES             ,     1000.00,  5.00,        0.00,   0
+1003,   464,VALDIVIEZO BRAVO RUBEN *CA                        ,RIOBAMBA            ,      600.00,  5.00,        0.00,   0
+1-J ,   468,MIRIAN DISTRIBUIDORA *ABB                         ,G                   ,     4000.00, 10.00,        0.00,   0
+1-J ,   472,PROMOCIONES STEVENS PROSTEV*AA                    ,MILAGRO             ,     9300.00,  7.00,        0.00,   0
+1-R ,   474,OLMEDO REASCOS JULIO *AB                          ,G                   ,     7300.00, 10.00,      626.72,   0
+1003,  7821,CALLO ENRIQUE *BA                                 ,LATACUNGA           ,     2000.00, 10.00,        0.00,   0
+1-J ,   476,VARGAS VARGAS GRACIELA *BBB                       ,G                   ,     1500.00,  5.00,        0.00,   0
+1003,   482,NAVEDA COBO DANIEL *AA                            ,AMBATO              ,    22200.00, 10.00,        0.00,   0
+1004,   484,ORDOÑEZ TELLO LUIS *AB                            ,QUITO               ,     2000.00, 10.00,        0.00,   0
+1-R ,   486,MARQUEZ SANCHEZ KARINA *AA                        ,LIBERTAD            ,     3800.00,  5.00,     1455.42,   0
+1004,   487,CEVALLOS ALVAREZ XAVIER *AAA                      ,QUITO               ,    11100.00, 10.00,     6719.92,   0
+1-R ,  7829,ANGELA COMERCIAL *BA                              ,G                   ,     1400.00, 10.00,      630.36,   0
+1003,   488,PLASTICENTRO FANICITA *BA                         ,PASAJE              ,     2000.00,  0.00,        0.00,   0
+1003,   489,RODRIGUEZ ESPINOSA NELLY *BA                      ,RIOBAMBA            ,     1500.00, 10.00,        0.00,   0
+1-R ,   490,PALMA BAZURTO NELSON *BA                          ,G                   ,     1000.00, 10.00,        0.00,   0
+1003,   493,YAMELL BAZAR *AB                                  ,HUAQUILLAS          ,     3000.00, 10.00,      159.60,   0
+1-R ,   494,YUNGAN MINTA FAUSTO *BA                           ,MILAGRO             ,     1600.00,  0.00,     1375.69,   0
+1-J ,   495,OCHOA GUERRERO EDWIN *BA                          ,CUENCA              ,     2500.00, 10.00,        0.00,   0
+1-R ,   499,VAYAS CIFUENTES HECTOR *AA                        ,MILAGRO             ,     3000.00,  5.00,        0.00,   0
+1-R ,   500,HIDALGO AMGUAÑA MARIA *BB                         ,IBARRA              ,     2000.00,  5.00,        0.00,   0
+1-J ,   501,KARLA ALMACEN *B                                  ,CUENCA              ,      600.00,  0.00,        0.00,   0
+1-J ,   497,BAYONA TARAZONA ALODIA *AB                        ,G                   ,     3000.00,  5.00,        0.00,   0
+10  ,   502,CAICEDO VALENCIA JOEL *BA                         ,ESMERALDAS          ,     2700.00,  7.50,        0.00,   0
+1003,   503,ALMACHE REDROBAN BLANCA *BA                       ,LATACUNGA           ,     3000.00, 10.00,        0.00,   0
+1003,   504,CAMPOVERDE VALLE VICTOR *BA                       ,PIÑAS               ,     3000.00,  0.00,      711.69,   0
+1003,   505,ORELLANA ORDOÑEZ TERESA *BA                       ,LOJA                ,     1800.00,  0.00,      276.00,   0
+1-R ,   506,CARDENAS IZQUIERDO EFRAIN *BA                     ,MILAGRO             ,     2700.00, 10.00,     1805.45,   0
+10  ,   508,BRIONES VELASTEGUI KATTY *AA                      ,PORTOVIEJO          ,     5000.00, 10.00,        0.00,   0
+10  ,   509,GILER ARTEAGA LUIS *CB                            ,PORTOVIEJO          ,      500.00,  0.00,        0.00,   0
+1-J ,   510,ALVAREZ CABRERA ENRIQUE *CB                       ,CUENCA              ,      300.00,  0.00,        0.00,   0
+1003,   512,CAMPOVERDE VALLE JHONSON *A                       ,BALSAS              ,     3000.00,  0.00,        0.00,   0
+1-R ,   513,HOLA VILLALOBOS LUIS *C                           ,LIBERTAD            ,      600.00,  0.00,        0.00,   0
+1004,   514,MANZANO CRUZ LUIS *BB                             ,QUITO               ,     2500.00,  5.00,     1501.44,   0
+1-J ,   515,LOPEZ LEDESMA CESAR *B                            ,CUENCA              ,     1000.00,  0.00,        0.00,   0
+1-R ,   518,LOZANO SABANDO LUZ *BB                            ,LIBERTAD            ,      950.00,  0.00,        0.00,   0
+1-J ,   519,POLO POLO LEON BENIGNO *B                         ,CUENCA              ,      600.00,  0.00,        0.00,   0
+1004,   521,ARBOLEDA ZAMBRANO JUAN *BA                        ,QUITO               ,     1500.00,  0.00,        0.00,   0
+10  ,   523,ANDRADE VALAREZO JHONY *C                         ,PORTOVIEJO          ,      600.00,  0.00,        0.00,   0
+1004,   525,ORTEGA ALCOCER PAOLA *BA                          ,SANGOLQUI           ,     5800.00, 10.00,        0.00,   0
+1003,   526,MINTA CUENCA JOSE *BA                             ,MACHALA             ,     1500.00,  0.00,        0.00,   0
+1003,   527,MOREIRA MACIAS FELIPE *A                          ,BABAHOYO            ,     3000.00,  0.00,        0.00,   0
+1003,   528,CORDOVA ALARCON LUZ * C                           ,RIOBAMBA            ,      250.00,  0.00,        0.00,   0
+1004,   529,JACOME MORENO LOURDES *AA                         ,QUITO               ,    16000.00, 10.00,      845.20,   0
+1004,   530,PARRA ELVIA PIEDAD *BA                            ,SANGOLQUI           ,      800.00, 10.00,        0.00,   0
+1004,   531,SANTAMARIA PROAÑO ADRIANA *AA                     ,QUITO               ,     3500.00,  3.00,        0.00,   0
+1004,   532,PEREZ RODRIGUEZ DIEGO *AB                         ,QUITO               ,     2000.00,  0.00,        0.00,   0
+1003,   533,LOAYZA DUCHI VIVIANA *CA                          ,MACHALA             ,     3800.00, 10.00,      496.67,   0
+1-R ,   534,RODRIGUEZ CARRERA BOLIVAR *AB                     ,TULCAN              ,     3000.00, 10.00,        0.00,   0
+1-R ,   535,CARRERA ALARCON EMMA *BA                          ,IBARRA              ,     1500.00,  5.00,      495.27,   0
+1-R ,   536,AYALA GUERRERO OSWALDO *BB                        ,TULCAN              ,      800.00,  5.00,        0.00,   0
+1-R ,   537,IMBAGO VENEGAS EDWIN *AC                          ,TULCAN              ,     2500.00,  5.00,        0.00,   0
+1003,   538,MOGROVEJO VASQUEZ CESAR *CA                       ,CUENCA              ,      800.00,  2.00,        0.00,   0
+10  ,   539,PONCE LOOR AGUSTA ADRIANA *AC                     ,DAULE               ,     4000.00,  5.00,      590.39, 199
+1-R ,   540,ROMERO VINCES MANUEL *CA                          ,LIBERTAD            ,      500.00,  0.00,        0.00,   0
+1003,   542,ARIAS RODRIGUEZ ANGEL *B                          ,RIOBAMBA            ,      800.00,  0.00,        0.00,   0
+1-J ,   543,PEÑALOZA BRITO ROSA *CA                           ,SANTA ISABEL        ,      400.00,  0.00,        0.00,   0
+1-R ,   544,ROSERO LOOR EFRAIN *A                             ,TULCAN              ,     3000.00, 10.00,        0.00,   0
+1-R ,   545,POZO VERA ANGELO ROBERTO *CA                      ,SANTA ELENA         ,      200.00,  0.00,        0.00,   0
+10  ,   546,CARMIGNIANI SANCHEZ MILTON *CA                    ,QUEVEDO             ,     1000.00,  5.00,        0.00,   0
+1-R ,   547,SIBRI PUMA MIGUEL *CA                             ,G                   ,      800.00,  0.00,        0.00,   0
+1004,   553,ALCOCER ESPINOZA GERARDO *AA                      ,SANGOLQUI           ,     2000.00,  0.00,        0.00,   0
+1004,   554,JIMA MASACHE SEGUNDO *B                           ,QUITO               ,     1500.00,  0.00,        0.00,   0
+1-R ,   555,CAMPOVERDE RODRIGUEZ ORLANDO*A                    ,G                   ,     3000.00, 10.00,        0.00,   0
+1-R ,   556,PITA SALINAS YADIRA *CA                           ,SANTA ELENA         ,      200.00,  0.00,        0.00,   0
+1-J ,   557,CHUQUIGUANGA ZHINGRE BLANCA*C                     ,CUENCA              ,      600.00,  0.00,        0.00,   0
+1004,   559,SERRANO GUILLEN HERNAN *BB                        ,SANGOLQUI           ,     3800.00, 10.00,        0.00,   0
+1003,   560,ROMAN LARA ELVIA *AB                              ,AMBATO              ,     3000.00,  5.00,      213.27,   0
+1-R ,   562,FERMAINDUS S.A.      *BA                          ,G                   ,     1500.00, 10.00,        0.00,   0
+1004,   563,ARAUJO MOSCOSO JUAN *B                            ,QUITO               ,     1500.00,  0.00,        0.00,   0
+1-J ,   564,MOROCHO MOROCHO RAFAEL *C                         ,CUENCA              ,      250.00,  0.00,        0.00,   0
+1003,   565,YUQUILEMA MULLO GERARDO *AC                       ,RIOBAMBA            ,     3000.00, 10.00,      211.44,   0
+1003,   566,MUYULEMA JARRIN EDGAR *A                          ,RIOBAMBA            ,     2000.00,  0.00,        0.00,   0
+1003,   567,PUCHAICELA ARMANDO FRANCEL*BB                     ,LOJA                ,     1000.00,  0.00,      420.62,   0
+1004,   568,CUBILLO LOOR SILVANA *AA                          ,SANTO DOMINGO       ,     8540.00,  7.50,     6913.96,   0
+1003,   569,MIÑO VALLEJO LEONY *CB                            ,LATACUNGA           ,      550.00,  0.00,        0.00,   0
+1003,   570,MEJIA CACERES MILDRET *B                          ,RIOBAMBA            ,      600.00,  0.00,        0.00,   0
+1003,   572,AYALA YAGUANA LEONELA *B                          ,MACHALA             ,     2000.00,  5.00,        0.00,   0
+1003,   573,DUCHI YUNGAN MARIA *CB                            ,MACHALA             ,     1600.00,  5.00,        0.00,   0
+1-R ,   574,CEPEDA BAGUA SEGUNDO *A                           ,G                   ,     3000.00, 10.00,        0.00,   0
+1-J ,   578,SOLIS FLORES WILLIAN *A                           ,CUENCA              ,     3000.00,  0.00,        0.00,   0
+1-J ,   579,ZUÑA ABAD WILSON RENE *BA                         ,G                   ,     1000.00,  5.00,        0.00,   0
+1003,   580,ASTUDILLO GUZMAN ROSA *CA                         ,CUENCA              ,      600.00,  0.00,      167.42,   0
+1-J ,   582,BAYAS CORDOVA FANNY *BA                           ,G                   ,     1600.00,  0.00,        0.00,   0
+1004,   585,RODRIGUEZ MANOSALVAS GERMANIA*C                   ,QUITO               ,      300.00,  0.00,        0.00,   0
+1003,   586,ORDONEZ LEON JESSICA *C                           ,RIOBAMBA            ,      800.00, 10.00,        0.00,   0
+1-J ,   587,ALDEPI *AA                                        ,G                   ,     4000.00,  7.00,        0.00,   0
+10  ,   589,GILER DIAZ RODOLFO *A                             ,ESMERALDAS          ,     2000.00,  0.00,        0.00,   0
+1004,   590,PACHECO PROANO LIDIA *AMM                         ,QUITO               ,      200.00,  0.00,        0.00,   0
+10  ,   592,CANDIOTI PACHECO CESAR *B                         ,ESMERALDAS          ,     1000.00,  0.00,        0.00,   0
+10  ,   593,COMISARIATO VELEZ BONILLA *A                      ,MANTA               ,     2500.00, 10.00,        0.00,   0
+1003,   594,ARIZAGA ARIAS HELEN *CB                           ,LOJA                ,      300.00,  0.00,        0.00,   0
+1004,   595,GARCIA MAYEA ARECIO *BB                           ,VINCES              ,     1500.00,  5.00,        0.00,   0
+1-R ,   598,FACTO SOLUTIONS S. A.                             ,G                   ,      600.00,  0.00,        0.00,   0
+1003,   600,VILLACIS TRUJILLO SOFIA *BA                       ,RIOBAMBA            ,     2000.00,  0.00,      693.47,   0
+1003,   602,GUAMAN GUINAGUASO ELVIA *CC                       ,CATAMAYO            ,      200.00,  0.00,        0.00,   0
+1004,   604,VERDEZOTO MORETA GEOVANY *BB                      ,QUITO               ,     4200.00,  0.00,     2504.02,   0
+1003,   605,RODRIGUEZ PANGAY MARIA *BA                        ,CATAMAYO            ,     3800.00,  0.00,        0.00,   0
+1-R ,   606,GUACHO CEPEDA JOSEFA                              ,IBARRA              ,     2000.00, 10.00,     1395.24,   0
+1003,   607,SANGA QUINTE ANGEL *A                             ,RIOBAMBA            ,     2000.00,  0.00,        0.00,   0
+1004,   608,AVENDANO HARO EDWIN *CB                           ,QUITO               ,      600.00,  5.00,        0.00,   0
+1-R ,   609,GUACHO CEPEDA ALBERTO *BA                         ,IBARRA              ,     1500.00, 10.00,      607.34,   0
+1-R ,   610,PILACUAN POZO FREDDY *BA                          ,IBARRA              ,     4500.00, 10.00,     1739.88,   0
+1-R ,   611,GUACHO CEPEDA SEGUNDO *BA                         ,IBARRA              ,     1500.00, 10.00,      655.24,   0
+1003,   612,MACERO VINTIMILLA MARJORY *BA                     ,CUENCA              ,     2600.00, 10.00,     3844.64,   0
+1003,   613,QUEZADA OCHOA RUTH *BB                            ,LOJA                ,     1150.00,  0.00,     1270.68,   0
+1-J ,   614,CORONEL PATINO NINFA *B                           ,CUENCA              ,      700.00,  5.00,        0.00,   0
+1-R ,   615,CARABAJO JARA MARIA *A                            ,G                   ,     2000.00,  0.00,        0.00,   0
+1004,   617,CHERREZ CANO JOSE *CB                             ,BABAHOYO            ,      400.00,  0.00,      305.08,   0
+1004,   618,MOROCHO CHANGO SUSANA *CB                         ,VENTANAS            ,      300.00,  0.00,      155.79,   0
+1004,   619,SUCONOTA DAMIAN MANUEL *BB                        ,BABAHOYO            ,     1200.00,  5.00,     1053.40,   0
+1003,   621,VILLA YUQUILEMA AMADEO *CM                        ,RIOBAMBA            ,     1000.00,  0.00,        0.00,   0
+1004,   622,MOROCHO CHICAISA SEGUNDO *CB                      ,VENTANAS            ,      350.00,  0.00,        0.00,   0
+1004,   623,TUTILLO TOAPANTA JOSE *BC                         ,MANA                ,     2000.00,  0.00,        0.00,   0
+1004,   624,ESPINOZA AGUIRRE CELSO *AAB                       ,QUITO               ,     5000.00, 10.00,      819.03,   0
+1004,   625,HERRERA CORTEZ IRMA *CB                           ,BALZAR              ,      300.00,  0.00,        0.00,   0
+1004,   627,ARCOS PLAZAS FERNANDO *C                          ,QUITO               ,      300.00,  0.00,        0.00,   0
+1004,   630,ESPINOSA SANTOS JAIME *BA                         ,QUITO               ,     1000.00,  5.00,        0.00,   0
+1004,   632,JARA LEON JOSE GABRIEL *CMM                       ,QUITO               ,      800.00,  0.00,        0.00,   0
+1004,   634,MOROCHO CHICAIZA AUGUSTO *AB                      ,VENTANAS            ,     1000.00,  0.00,        0.00,   0
+1004,   635,COMERCIALIZADORA MEGAHOGAR *A                     ,QUITO               ,     2000.00,  8.00,        0.00,   0
+1004,   636,ABAD ARAUJO GISEL                                 ,G                   ,      300.00,  0.00,        0.00,   0
+1-R ,   637,IZQUIERDO BURI ESTHELA *BA                        ,G                   ,     4000.00, 10.00,      554.40,   0
+1003,   640,NARANJO SAMPEDRO NANCY *B                         ,RIOBAMBA            ,     1200.00,  0.00,        0.00,   0
+1004,   641,DELI INTERNACIONAL S.A. *BB                       ,QUITO               ,        0.00,  0.00,        0.00,   0
+1004,   642,PICO SERRANO AIDA *CB                             ,QUITO               ,      500.00,  0.00,        0.00,   0
+1003,   643,TOAPANTA CAIZA YOLANDA *A                         ,BUCAY               ,     3000.00,  0.00,        0.00,   0
+1003,   645,GUEVARA CAPELO LLOCONDA *B                        ,RIOBAMBA            ,     1200.00,  5.00,        0.00,   0
+1003,   646,MELO MENDOZA CARLOS *A                            ,RIOBAMBA            ,     2000.00, 10.00,        0.00,   0
+1003,   647,ALLAUCA VARGAS GUILLERMO *B                       ,RIOBAMBA            ,     1500.00,  0.00,        0.00,   0
+1003,   649,TIERRA SANDRA CUNDURE *B                          ,RIOBAMBA            ,      200.00,  0.00,        0.00,   0
+1004,   650,MONTOYA SALTOS CIPRIANO *BB                       ,VINCES              ,     1000.00,  5.00,        0.00,   0
+1003,   651,JARAMILLO YANEZ ELINA *B                          ,RIOBAMBA            ,     1200.00,  0.00,        0.00,   0
+1003,   653,TORRES AGUILAR JORGE *B                           ,AMBATO              ,      400.00,  0.00,      364.11,   0
+1003,   655,BRAVO ONTANEDA FREDDY *BC                         ,ARENILLAS           ,      600.00,  0.00,        0.00,   0
+1004,   657,LEON BAEZ LIDIA PATRICIA *BA                      ,BALZAR              ,      300.00,  5.00,        0.00,   0
+1-R ,   658,DEVIES CORP S.A. *A                               ,MILAGRO             ,        0.00,  0.00,        0.00,   0
+1-R ,   659,GUERRERO REINA *AA                                ,G                   ,     9300.00, 10.00,     1977.80,   0
+1003,   660,ABDO PERALTA PAULA *A                             ,RIOBAMBA            ,        0.00,  0.00,        0.00,   0
+1003,   661,PAZMIÑO GANAN ROCIO *CA                           ,AMBATO              ,      500.00,  0.00,        0.00,   0
+1003,   662,ROMERO ARIADEL IVAN *BB                           ,MACHALA             ,        0.00,  0.00,        0.00,   0
+1004,   663,GRANIZO GRANIZO JENNY *BB                         ,QUITO               ,     1200.00,  3.00,        0.00,   0
+1004,   664,MANJARRES GUEVARA ANGEL *B                        ,QUITO               ,        0.00,  0.00,        0.00,   0
+1004,   665,MISE CHANALATA JAIME *CB                          ,MANA                ,     1400.00,  0.00,      124.82,   0
+1004,   666,MOROCHO CHANGO MARLENE *AC                        ,VENTANAS            ,        0.00,  0.00,        0.00,   0
+1004,   667,SANMARTIN ARMIJOS MARTIR *B                       ,QUITO               ,        0.00,  0.00,        0.00,   0
+1004,   668,SAUL ESPINOZA E HIJOS CIA LTDA                    ,QUITO               ,     5000.00, 10.00,     2338.73,   0
+1-J ,   669,CHANGO SIGUENZA CRISTINA *BD                      ,CUENCA              ,     2500.00,  5.00,        0.00,   0
+1003,   670,POVEDA LLAMBO MARCO *CA                           ,AMBATO              ,        0.00,  0.00,        0.00,   0
+10  ,   671,IMPORT EXPORT MORKEDEN  *AA                       ,PORTOVIEJO          ,     3000.00, 10.00,        0.00,   0
+1-R ,   672,CABANILLA HOLGIN JACINTO *BA                      ,G                   ,      600.00,  5.00,        0.00,   0
+1-J ,   588,                                                  ,                    ,        0.00,  0.00,        0.00,   0
+1003,  7819,ALVARO HERNANDEZ ALICIA *BA                       ,RIOBAMBA            ,      600.00,  0.00,      114.24,   0
+1004,   400,TOSCANO PADILLA JOSE *B                           ,QUITO               ,      600.00,  5.00,        0.00,   0
+1004,   401,GRANIZO GRANIZO JOSE *BB                          ,QUITO               ,      800.00,  3.00,      306.48,   0
+1004,     1,SAHONA MENDOZA DERME *BA                          ,RICAURTE            ,     3500.00, 10.00,      154.86,   0
+1004,     2,ORTIZ CHAVEZ WALTER *CA                           ,OTAVALO             ,      800.00,  0.00,      316.56,   0
+1004,     4,CHANALATA  MARIA ELVIRA *BA                       ,MANA                ,     2200.00,  3.00,      699.02,   0
+1003,     5,TENELEMA CHANGO WILLIAN *CA                       ,ARENILLAS           ,      350.00,  0.00,        0.00,   0
+1004,     6,VALENCIA CHAMORRO EDWIN  *CB                      ,QUITO               ,      500.00,  0.00,        0.00,   0
+1004,     7,MAIGUALCA CADENA LUIS *CM                         ,QUITO               ,      400.00,  0.00,        0.00,   0
+1004,     8,SOCIEDAD CIVIL Y COMERCIAL LEM SCC *BA            ,OTAVALO             ,     1000.00,  3.00,        0.00,   0
+1004,     9,FUENTES ARMAS MARIBEL *BA                         ,OTAVALO             ,     1500.00,  7.50,        0.00,   0
+1004,    10,ARMAS BOADA TERESA     *BC                        ,OTAVALO             ,     1000.00,  7.00,      153.24,   0
+1004,    11,COTACACHI LEMA YOLANDA M *BA                      ,OTAVALO             ,     1500.00,  3.00,        0.00,   0
+1004,    12,MORALES MORALES JOSE  *AA                         ,OTAVALO             ,     4400.00,  7.50,        0.00,   0
+1004,    13,BRACERO JACOME KATHERINE *BA                      ,QUITO               ,     1500.00, 10.00,        0.00,   0
+1004,    14,EDISON REVELO RAMIREZ *AC                         ,QUITO               ,     3000.00, 10.00,      539.04,   0
+1-J ,    15,LEON GUTAMA BLANCA      *BA                       ,LA TRONCAL          ,      800.00,  0.00,        0.00,   0
+1004,    16,MISE CHANALATA WILLIAM  *BB                       ,LA MANA             ,     1200.00,  3.00,        0.00,   0
+1004,    17,KARIN MANSUR QUIÑONEZ   *B                        ,RICAURTE            ,     1500.00,  3.00,        0.00,   0
+1004,    18,VEGA SOLIS SONNA JUDITH  *B                       ,EL EMPALME          ,     7000.00, 10.00,      424.71,   0
+1-R ,    19,VAYAS CRUZ HECTOR VICENTE *BB                     ,MILAGRO             ,     3000.00, 10.00,        0.00,   0
+1-R ,    21,JIMENEZ JARAMILLO IRMA *C                         ,G                   ,      400.00,  0.00,        0.00,   0
+1004,    23,ROMERO CORDONEZ ANGEL *BBB                        ,QUITO               ,     1000.00,  3.00,        0.00,   0
+1003,    25,ESPINOSA CALI EDWIN FABIAN *BB                    ,LOJA                ,      600.00,  0.00,        0.00,   0
+1003,    24,VILLAVICENCIO MANUEL *BB                          ,LOJA                ,     2000.00,  0.00,        0.00,   0
+1004,    26,VILLACIS TRUJILLO ELSA  *B                        ,QUITO               ,     1000.00,  0.00,        0.00,   0
+1004,    30,NAULA QUISHPI ANTONIO   *BA                       ,OTAVALO             ,      600.00,  5.00,      903.48,   0
+1004,    28,MOROCHO CHANGO RITA   *BC                         ,CAYAMBE             ,     1000.00,  0.00,        0.00,   0
+1003,    31,CALI AYLLON ROSA AMELIA *B                        ,LOJA                ,     1500.00,  0.00,        0.00,   0
+1003,    32,ORDOÑEZ ARMIJOS EVER   *B                         ,LOJA                ,     1800.00,  0.00,        0.00,   0
+1003,    34,PELAEZ RIVERA MARIA *BD                           ,LOJA                ,     1500.00,  0.00,      149.40,   0
+1004,    35,BARAHONA JIMENEZ YOLANDA *BC                      ,QUITO               ,      800.00,  3.00,        0.00,   0
+1004,    39,JIMENEZ GUALAN ANGEL  *BB                         ,QUITO               ,     3000.00,  7.00,      387.99,   0
+10  ,    42,CARMIGNIANI SANCHEZ MILTON *BA                    ,QUEVEDO             ,     1500.00, 10.00,        0.00,   0
+1004,    43,CAZORLA LOGROÑO MANUEL  *BA                       ,QUITO               ,     1000.00,  7.00,        0.04,   0
+1-R ,    44,HIDALGO GARCIA LIMBER *BA                         ,G                   ,     1500.00, 10.00,        0.00,   0
+1003,    45,DUCHI TENESACA SANDRA *BB                         ,CUENCA              ,     7900.00, 10.00,     8465.12,   0
+1-J ,    47,CORNEJO GARCES BETTI A *BB                        ,G                   ,      600.00,  5.00,        0.00,   0
+1004,    48,MALDONADO CACUANGO PABLO *B                       ,OTAVALO             ,     1000.00,  3.00,      375.08,   0
+1-R ,    52,PAREDES ARDILA LUIS HUMBERTO*A                    ,IBARRA              ,     2500.00, 10.00,        0.00,   0
+1003,    55,CALI AYLLON ROSA AMELIA *C                        ,LOJA                ,      800.00,  0.00,        0.00,   0
+1-J ,    57,PESQUERA PERALTA SOC ANONIMA *B                   ,MANTA               ,     2000.00,  5.00,        0.00,   0
+1004,    58,JARAMILLO SOLA SUSANA *BB                         ,QUITO               ,     1500.00, 10.00,      229.92,   0
+1-J ,    59,STROKEN S.A                                       ,MANTA               ,     2000.00,  5.00,        0.00,   0
+1003,    62,SANMARTIN REVILLA LALIA E *BB                     ,EL GUABO            ,     1000.00, 10.00,      366.52,   0
+1003,    64,MINTA QUISHPI WASHINGTON * BB                     ,MACHALA             ,     1000.00, 10.00,        0.00,   0
+1003,    65,CELI CORONEL MARY CARMEN *AB                      ,AMBATO              ,     7500.00, 10.00,     1108.28,   0
+1003,    66,MEJIA CACERES MILDRES A *BB                       ,RIOBAMBA            ,     1000.00, 10.00,        0.00,   0
+1-J ,    67,MONSERRATE QUEZADA FAUSTO *BA                     ,G                   ,     1500.00, 10.00,        0.00,   0
+1004,    68,CLAVIJO HERRERA HUGO E*B                          ,QUITO               ,     3000.00, 10.00,      489.36,   0
+1003,    69,ARMIJOS RAMON DORA A *BC                          ,LOJA                ,        0.00,  0.00,      454.13,   0
+1-J ,    70,EL CHILENO COMERCIAL                              ,G                   ,        0.00,  5.00,        0.00,   0
+1004,    71,MALDONADO PENEIDA GALO *BC                        ,QUITO               ,     8000.00, 10.00,        0.00,   0
+1004,    73,LOPEZ GALLO CECILIA *B                            ,QUITO               ,     1000.00, 10.00,        0.00,   0
+1-J ,    74,MOLINA ALVEAR JONATHAN F. *B                      ,G                   ,     1000.00, 10.00,        0.00,   0
+1-R ,    75,SALINAS BALON BETTY P *BA                         ,SANTA ROSA          ,      800.00, 10.00,        0.00,   0
+1-J ,    76,GARCIA CHOEZ EDELMIRA                             ,G                   ,      800.00, 10.00,        0.00,   0
+1-J ,    80,VALVERDE PEÑAHERRERA FREDDY*B                     ,G                   ,     2500.00,  7.00,        0.00,   0
+1003,    81,TIGRE MARCA ANA MARIA *BB                         ,CUENCA              ,     1000.00, 10.00,        0.00,   0
+1003,    82,AÑAZCO CORDOVA ULVIA DORILA*BB                    ,MACHALA             ,     1500.00, 10.00,        0.00,   0
+1-R ,    85,SUAREZ VILLAO WILLIAM FABIAN *B                   ,G                   ,     1000.00, 10.00,        0.00,   0
+1-R ,    86,MEDINA CARPIO PAMELA NATALI                       ,RICAURTE            ,     1000.00, 10.00,        0.00,   0
+1003,    87,LOOR NARVAEZ ALEX RAUL                            ,PIÑAS               ,     3000.00,  5.00,      209.80,   0
+1004,    89,VEGA RAMIREZ CESAR HUMBERTO *B                    ,OTAVALO             ,     3000.00,  3.00,      354.00,   0
+1003,    90,PELAEZ PELAEZ NELSON M, BB                        ,LOJA                ,     1000.00,  0.00,        0.00,   0
+1003,    91,REVILLA ROSA DELIA *BA                            ,EL GUABO            ,     3000.00,  0.00,        0.00,   0
+1-J ,    93,ALLAUCA BAQUERIZO CAROLINA *B                     ,G                   ,     1500.00, 10.00,        0.00,   0
+1004,    95,MOREIRA VERA SHEILY ZAMANTHA                      ,G                   ,     1000.00, 10.00,      186.39,   0
+1004,    96,FM IMPORTACIONES MOSVITSOLUCIONS CIA LTDA         ,QUITO               ,     5000.00, 10.00,        0.00,   0
+1003,    97,SARANGO GUAILLAS JOSE S,*BB                       ,LOJA                ,      900.00,  0.00,        0.00,   0
+1-J ,    98,CHUQUINGUANCA ZHINGRE BLANCA *B                   ,CUENCA              ,     2000.00,  0.00,        0.00,   0
+1-J ,    99,I.M.D.E.A.S.A                                     ,G                   ,        0.00,  0.00,        0.00,   0
+1003,   100,DOMINGUEZ MENA MARIA E *AA                        ,LATACUNGA           ,     6000.00, 10.00,        0.00,   0
+1004,   101,CANSIGNIA ALCOCER MONICA P *B                     ,SANGOLQUI           ,     4000.00, 10.00,      810.93,   0
+1-R ,   102,FIGUEROA CARABAJO PEDRO                           ,G                   ,    40000.00, 10.00,        0.00,   0
+1-R ,   103,ALMACENES FIGUEROA S.A                            ,G                   ,    40000.00,  0.00,        0.00,   0
+1004,   104,DILIHOGAR *BB                                     ,QUITO               ,     3500.00, 10.00,        0.00,   0
+1-R ,   105,RIOS MARY                                         ,MILAGRO             ,        0.00,  0.00,        0.00,   0
+1-R ,   106,CAUJA VARGAS HENRRY PAUL *B                       ,G                   ,     1500.00, 10.00,        0.00,   0
+1-R ,   110,YAMUCA ONTANEDA JORGE A *A                        ,IBARRA              ,     5000.00, 10.00,     2545.22,   0
+1-R ,   111,GOMEZ GOMEZ MARLON                                ,G                   ,     1500.00, 10.00,        0.00,   0
+1-R ,   114,NUÑEZ ENRIQUE                                     ,NARANJAL            ,        0.00,  5.00,        0.00,   0
+10  ,   115,MERO QUIJIJE HENRY ALEJANDRO                      ,JARAMIJO            ,        0.00,  5.00,        0.00,   0
+1-R ,   116,VALDEZ NAVAEZ WALTER FRANS                        ,IBARRA              ,     3500.00,  0.00,     1911.50,   0
+1003,   117,PELAEZ DANIELA                                    ,LOJA                ,        0.00,  0.00,        0.00,   0
+1003,   118,BARRERA CARRASCO RENNE JUVELINA                   ,AMBATO              ,     7600.00,  0.00,     7110.00,   0
+1-R ,   120,PEREZ SANCHEZ MONICA ALEXANDRA                    ,G                   ,     2500.00, 10.00,      519.92,   0
+1003,   121,ALBAN ARIAS MARLON JACKSON                        ,LOJA                ,        0.00,  0.00,        0.00,   0
+1004,   124,MOYA CORDOVA MARIA ETELVINA                       ,QUITO               ,     2000.00, 10.00,      670.79,   0
+1003,   125,QUITIO PILATAXI RAFAEL T *A                       ,RIOBAMBA            ,     8000.00,  0.00,        0.00,   0
+1004,   128,TABANGO RUIZ ALFONSO                              ,OTAVALO             ,     2800.00,  0.00,        0.00,   0
+1004,   135,EVELYN TIPAN DIAZ                                 ,QUITO               ,        0.00,  0.00,        0.00,   0
+1004,   138,JIMENEZ VILLAFUERTE LUIS A *B                     ,VENTANAS            ,     1500.00,  0.00,      458.57,   0
+1004,   139,COMERCIAL PARRA                                   ,QUITO               ,        0.00,  0.00,      275.25,   0
+1004,   142,CAJILEMA ASIMBAYA MARTHA E *B                     ,QUITO               ,     2000.00,  0.00,      476.54,   0
+1004,   145,TIPAN DIAZ EVELYN YESSENIA *B                     ,QUITO               ,     1500.00,  0.00,      892.26,   0
+1004,   146,CUBILLO ORTIZ LUIS V *A                           ,SANTO DOMINGO       ,     6000.00,  0.00,     3342.54,   0
+1004,   147,CAGUA CAGUA MAXIMO RONALD                         ,G                   ,        0.00,  0.00,        0.00,   0
+1004,   153,MALDONADO CACOANGO OLGA *A                        ,OTAVALO             ,     3500.00,  0.00,      384.72,   0
+1004,   162,MEZA BOLAÑOS LAURA *B                             ,OTAVALO             ,     1500.00,  0.00,        0.00,   0

@@ -1,0 +1,3 @@
+[18-Sep-2016 00:24:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/bazarchi/public_html/sistemaPedidos/action/db.php on line 47
+[18-Sep-2016 00:25:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/bazarchi/public_html/sistemaPedidos/action/db.php on line 47
+[18-Sep-2016 00:25:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/bazarchi/public_html/sistemaPedidos/action/db.php on line 47
