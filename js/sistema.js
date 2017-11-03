@@ -8,6 +8,7 @@
   var iTemxPedido = 1;
   var cs = 0;
   var eliminado = 0;
+  var direccion = 'http://138.197.154.196/sistemaPedidos';
 
  var listCompras = new Array();
 
@@ -56,7 +57,7 @@
       "pass" : $('#inputClave3').val()
     }
     $.ajax({
-      url: 'action/login.php',
+      url: direccion+'action/login.php',
       type: "POST",
       cache: false,
       dataType: "json",
@@ -100,7 +101,7 @@
       "vendedor" : localStorage.getItem('userCode')
     }
     $.ajax({
-      url: 'action/getCliente.php',
+      url: direccion+'action/getCliente.php',
       type: "POST",
       cache: false,
       dataType: "json",
@@ -168,7 +169,7 @@
     console.log('cargoClientes');
 
     $.ajax({
-      url: 'action/getProducto.php',
+      url: direccion+'action/getProducto.php',
       type: "POST",
       cache: false,
       dataType: "json",
@@ -232,7 +233,7 @@ function cargoDatosUsuario(argumento){
     "codigo" : argumento
   };
   $.ajax({
-      url: 'action/getconsultaCliente.php',
+      url: direccion+'action/getconsultaCliente.php',
       type: "POST",
       cache: false,
       dataType: "json",
@@ -295,7 +296,7 @@ function cargoProducto(argumento){
       "codigo" : argumento
     };  
   $.ajax({
-      url: 'action/getconsultaProducto.php',
+      url: direccion+'action/getconsultaProducto.php',
       type: "POST",
       cache: false,
       dataType: "json",
@@ -380,7 +381,7 @@ function actualizarProducto(){
       "codigo" : argumento
     };  
   $.ajax({
-      url: 'action/getconsultaProducto.php',
+      url: direccion+'action/getconsultaProducto.php',
       type: "POST",
       cache: false,
       dataType: "json",
@@ -484,7 +485,7 @@ function cargoProducto(argumento){
         "codigo" : argumento
       };  
     $.ajax({
-        url: 'action/getconsultaProducto.php',
+        url: direccion+'action/getconsultaProducto.php',
         type: "POST",
         cache: false,
         dataType: "json",
@@ -723,7 +724,7 @@ function guardo(){
 		    'total': $('.totalapagar').text()
 		  };
 		  $.ajax({
-		      url: 'action/saveFdraft.php',
+		      url: direccion+'action/saveFdraft.php',
 		      type: "POST",
 		      cache: false,
 		      dataType: "json",
@@ -798,7 +799,7 @@ function guardarProductos(miPedido){
               'parcial': campo9
             };
             $.ajax({
-                url: 'action/saveProduct.php',
+                url: direccion+'action/saveProduct.php',
                 type: "POST",
                 cache: false,
                 dataType: "json",
@@ -832,7 +833,7 @@ function cargoListado(){
     'id_vendedor': perfilVendedorID
   };
   $.ajax({
-      url: 'action/getPedidos.php',
+      url: direccion+'action/getPedidos.php',
       type: "POST",
       cache: false,
       dataType: "json",
@@ -906,7 +907,7 @@ function editarPedido(argumento){
     'id_pedido': argumento
   };
   $.ajax({
-      url: 'action/getPedido.php',
+      url: direccion+'action/getPedido.php',
       type: "POST",
       cache: false,
       dataType: "json",
@@ -982,7 +983,7 @@ var parametros = {
     'id_pedido': argumento
   };
   $.ajax({
-      url: 'action/getDetallePedido.php',
+      url: direccion+'action/getDetallePedido.php',
       type: "POST",
       cache: false,
       dataType: "json",
@@ -1027,7 +1028,7 @@ function eliminarPedido(argumento){
     'id_pedido': argumento
     };
     $.ajax({
-        url: 'action/delPedido.php',
+        url: direccion+'action/delPedido.php',
         type: "POST",
         data:  parametros,
         success: function(response){
