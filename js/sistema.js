@@ -4,24 +4,23 @@
   var perfilVendedorID = '1';
   var miPedido = 0;
   var OPprecio = 0;
-  var misProductos = new Array()
-  var iTemxPedido = 1;
+  /*var misProductos = new Array()*/
+  /*var iTemxPedido = 1;*/
   var cs = 0;
   var eliminado = 0;
   var direccion = 'http://138.197.154.196/sistemaPedidos/';
 
- var listCompras = new Array();
+ /*var listCompras = new Array();*/
 
   $( document ).ready(function() {
 
-      getClientes();
-      getProducto();
-
+      //getClientes();
+      //getProducto();
       cargoListado();
 
-      $("#login").click(function () {
+     /* $("#login").click(function () {
         loginUsuario();
-      })
+      })*/
 
       $(".descuento1, .descuento2").on("focusout", function(e) {
         completoCalculo();
@@ -46,12 +45,12 @@
 
   });
 
-  function plazosTiempos(){
+/*  function plazosTiempos(){
     //alert($("#inputPlazo").val());
     OPprecio = $("#inputPlazo").val();
-  }
+  }*/
 
-  function loginUsuario() {
+/*  function loginUsuario() {
     var parametros = {
       "user" : $('#inputMail3').val(),
       "pass" : $('#inputClave3').val()
@@ -94,8 +93,8 @@
       }
     }); 
   }
-
-  function getClientes() {
+*/
+ /* function getClientes() {
     console.log('cargoClientes');
     var parametros = {
       "vendedor" : localStorage.getItem('userCode')
@@ -187,7 +186,7 @@
                 
                   $('.buscarproducto').append('<tr  onclick="cargoProducto(\'' +codigo+'\');"><th>'+codigo+'</th><th>'+nombre+'</th><th>'+stock+'</th><th>'+precioA+'</th><th>'+precioB+'</th><th>'+precioC+'</th></tr>');  
                   $('.actualizarproducto').append('<tr  onclick="actualizarProducto(\'' +codigo+'\');"><th>'+codigo+'</th><th>'+nombre+'</th><th>'+stock+'</th><th>'+precioA+'</th><th>'+precioB+'</th><th>'+precioC+'</th></tr>');  
-                  $('.productos').append('<tr><th>'+codigo+'</th><th>'+nombre+'</th><th>'+stock+'</th></tr>');  
+                  $('.productos').append('<tr><th>'+codigo+'</th><th>'+nombre+'</th><th>'+stock+'</th><th>'+precioA+'</th><th>'+precioB+'</th><th>'+precioC+'</th></tr>');  
                 
                 
             
@@ -223,8 +222,8 @@
         console.log(error);
       }
     });     
-  }
-
+  }*/
+/*
 
 function cargoDatosUsuario(argumento){
   //alert(argumento);
@@ -285,92 +284,7 @@ function cargoDatosUsuario(argumento){
 
 }
 
-/*
-function cargoProducto(argumento){
-
-  var idP;
-  alert('1'+argumento);
-  $('#consultaProducto').modal('hide');
-  var stock;
-  var parametros = {
-      "codigo" : argumento
-    };  
-  $.ajax({
-      url: direccion+'getconsultaProducto.php',
-      type: "POST",
-      cache: false,
-      dataType: "json",
-      data:  parametros,
-      success: function(response){  
-        if(response!=null && response!='' && response!='[]'){ 
-          $.each(response,function(key,value){ 
-
-                id = value.id;
-                codigo = value.codigo;
-                nombre = value.nombre;
-                stock = value.stock;
-                precioA = value.precioA;
-                precioB = value.precioB;
-                precioC = value.precioC;
-
-                idP = value.id;
-                if(OPprecio == 0){
-                  alert('Seleccione un Plazo');
-                }
-
-                if(OPprecio == 1){
-                $('#compras table tbody').append('<tr id="product-'+id+'"> <td class="codigo">'+codigo+'</td> <td class="nombre">'+nombre+'</td> <td class="text-right"><input type="text" class="stock form-control text-right" placeholder="'+stock+'"></td> <td class="precio text-right"><input type="text" class="precio form-control text-right" value="'+precioA+'"></td> <td class="text-right"><input type="text" class="descuento form-control text-right" value="0"></td> <td class="subtotal text-right">0</td> dfsdf</tr>');
-                }
-                if(OPprecio == 2){
-                $('#compras table tbody').append('<tr id="product-'+id+'"> <td class="codigo">'+codigo+'</td> <td class="nombre">'+nombre+'</td> <td class="text-right"><input type="text" class="stock form-control text-right" placeholder="'+stock+'"></td> <td class="precio text-right"><input type="text" class="precio form-control text-right" value="'+precioB+'"></td> <td class="text-right"><input type="text" class="descuento form-control text-right" value="0"></td> <td class="subtotal text-right">0</td> sdfdf</tr>');  
-                }
-                if(OPprecio == 3){
-                  $('#compras table tbody').append('<tr id="product-'+id+'"> <td class="codigo">'+codigo+'</td> <td class="nombre">'+nombre+'</td> <td class="text-right"><input type="text" class="stock form-control text-right" placeholder="'+stock+'"></td> <td class="precio text-right"><input type="text" class="precio form-control text-right" value="'+precioC+'"></td> <td class="text-right"><input type="text" class="descuento form-control text-right" value="0"></td> <td class="subtotal text-right">0</td>sdfsdfsdfsd </tr>');
-                }
-
-
-          });
-          listCompras.push(response);
-          console.log(listCompras);
-        }              
-      },
-      complete : function(data){
-        
-        console.log(data);
-        $("#compras table tbody input.stock").on("focusout", function(e) {
-
-          padre = $(e.target).parent().parent().attr('id');
-          //cantidad
-          //precio
-          //descuento
-          //parcial
-          
-          calculoItem(padre);
-
-          
-          
-
-        });
-
-        $("#compras table tbody input.descuento").on("focusout", function(e) {
-          
-          padre = $(e.target).parent().parent().attr('id');
-          //cantidad
-          //precio
-          //descuento
-          //parcial
-          
-          calculoItem(padre);
-
-
-        });
-        
-      },
-      error : function(error){     
-        console.log(error);
-      }
-    });
-}*/
+*/
 
 function actualizarProducto(){
   var idP;
@@ -469,7 +383,7 @@ function actualizarProducto(){
     });
 }
 
-function cargoProducto(argumento){
+/*function cargoProducto(argumento){
 
   if(iTemxPedido >= 23){
     alert('Maximo solo 22 items por pedido');
@@ -586,7 +500,7 @@ function cargoProducto(argumento){
 
   } // else iTemxPedido
 
-}
+}*/
 
 function calculoItem(productoID){
 

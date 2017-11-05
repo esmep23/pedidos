@@ -1,0 +1,67 @@
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> </title>
+
+    <link href="extras/bootstrap.min.css" rel="stylesheet">
+    <link href="extras/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="extras/justified-nav.css" rel="stylesheet">
+    <script src="extras/ie-emulation-modes-warning.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/stylus.css">
+  <script src="js/jquery-2.2.3.min.js"></script>
+  <script> 
+  $(function(){
+    $("#header").load("../contenido/header.html"); 
+    $("#footer").load("../contenido/footer.html"); 
+  });
+  </script> 
+</head>
+<body>
+
+<div class="container">
+
+  <div id="header"></div>
+  <!-- Menu -->
+  <nav>
+    <ul class="nav nav-justified">
+      <li><a href="perfil.html">Inicio</a></li>
+      <li><a href="registrarpedido.html">Registrar Pedido</a></li>
+      <li><a href="gestionarpedido.html">Gestionar Pedidos</a></li>
+      <li class="active"><a href="clientes.html">Listado de Clientes</a></li>
+      <li><a href="productos.html">Listado de Productos</a></li>
+    </ul>
+  </nav>
+  <!-- /Menu -->
+  <!-- Contenido -->
+    <h3>Listado de Clientes</h3>
+    <div class="input-group">
+      <span class="input-group-addon">Buscar</span>
+      <input id="filtrar" type="text" class="form-control search" placeholder="Ingresa el nombre del cliente...">
+    </div>
+              
+    <hr/>
+
+    <table class="table table-hover table-bordered results">
+      <thead>
+        <tr>
+          <th>Cod. Usuario</th>
+          <th>Nombre</th>
+        </tr>
+      </thead>
+      <tbody class="clientes">
+      </tbody>
+    </table>
+  <!-- /contenido -->
+
+  <div id="footer"></div>
+
+</div><!-- /container-->
+
+</body>
+</html>

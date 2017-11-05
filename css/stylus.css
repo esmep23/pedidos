@@ -1,5 +1,7 @@
+.container h3 {
+  text-align: center;
+}
 #Ctb {
-  background-color: #eaeaea;
   margin-top: 15%;
   padding-top: 5%;
   padding-bottom: 5%;
@@ -11,17 +13,6 @@
   padding-left: 2.5%;
   padding-right: 2.5%;
 }
-.results tr[visible='false'],
-.results2 tr[visible='false'],
-.no-result{
-  display:none;
-}
-
-.results tr[visible='true'],
-.results2 tr[visible='true']{
-  display:table-row;
-}
-
 .perfil {
   width: 100%;
   padding-top: 15%;
@@ -60,19 +51,4 @@ td.subtotal.text-right {
 .barraInferior {
   width: 100px;
   float: right;
-}
-
-p.salida{
-  float: right;
-}
-
-.elevado{
-  position:absolute;
-  left:0;
-  width:100px;
-  height:100px;
-}
-.compras table tbody,
-.compras table tbody tr{
-  position: relative;
 }
